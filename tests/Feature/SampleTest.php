@@ -2,10 +2,10 @@
 
 declare(strict_types=1);
 
-namespace Tests\Unit;
+namespace Tests\Feature;
 
 use MilesChou\Laravel\Sample;
-use PHPUnit\Framework\TestCase;
+use Tests\TestCase;
 
 class SampleTest extends TestCase
 {
